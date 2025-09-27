@@ -1,4 +1,4 @@
-package com.suvam.security;
+package com.suvam.security.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.web.bind.annotation.GetMapping;

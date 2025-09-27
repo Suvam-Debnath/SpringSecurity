@@ -1,4 +1,4 @@
-package com.suvam.security;
+package com.suvam.security.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

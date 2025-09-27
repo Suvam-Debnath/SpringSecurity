@@ -1,5 +1,6 @@
-package com.suvam.security;
+package com.suvam.security.controller;
 
+import com.suvam.security.model.Student;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.security.web.csrf.CsrfToken;
 import org.springframework.web.bind.annotation.GetMapping;
